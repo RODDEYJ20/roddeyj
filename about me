@@ -2,9 +2,21 @@
 <title> About Me </title>
 <style>
 h1 {font-family: Commic-Sans; font-size: 200%; text aling: center}
+h2 {font-family: Comic-Sans; font-size: 150%}
 p {font-family: Comic-Sans; fonnt-size 100%}
 </style>
 <body>
 
 <p> 
-h1 
+<h1> All about Nick Roddey 
+</p>
+
+<p>
+<h2> family
+</p>
+
+<p>
+<p> I have two brothers, JOe, and Terry, my mom and my dad, and my wounderful dog Luna.
+My mom owns her own company, and my dad is a lawyer. 
+My two older brothers are in coloage at Boston College, and CLemson.
+</p>
