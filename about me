@@ -1,2 +1,10 @@
 <html>
 <title> About Me </title>
+<style>
+h1 {font-family: Commic-Sans; font-size: 200%; text aling: center}
+p {font-family: Comic-Sans; fonnt-size 100%}
+</style>
+<body>
+
+<p> 
+h1 
